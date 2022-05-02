@@ -1,0 +1,16 @@
+[{
+
+  "departmentName": "IT",
+  "departmentCode": "CODE-001"
+},
+  {
+
+    "departmentName": "Electronics",
+    "departmentCode": "CODE-002"
+  },
+  {
+
+    "departmentName": "Eletrical",
+    "departmentCode": "CODE-003"
+  }
+]

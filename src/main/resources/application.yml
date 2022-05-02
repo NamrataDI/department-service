@@ -1,0 +1,26 @@
+server:
+  port : 9002
+
+spring:
+  application:
+    name: DEPARTMENT-SERVICE
+
+#eureka:
+#  client:
+#    register-with-eureka: true
+#    fetch-registry: true
+#    service-url:
+#      default-zone: http://localhost:8761/eureka
+#    instance:
+#      hostname: localhost
+
+openapi:
+  banner:
+   title: DEPARTMENT
+   version: 0.0.1
+   description: Department service
+  server:
+   url: http://localhost:9002/
+
+
+
